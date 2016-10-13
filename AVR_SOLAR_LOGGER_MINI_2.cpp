@@ -4,7 +4,7 @@
  * Created: 3.3.2016 15:22:20
  *  Author: Tomy2
  */ 
-
+ 
 // ARDUINO MINI PRO + W25Q64BV + LTC3105 + SOLAR + DS18B20 + ADC 1.1ref and averaging + EXTRA SLEEP + BOOT communication + ASCII output + faster ADC + more power saving
 
 /*
