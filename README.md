@@ -24,6 +24,7 @@ Reading the flash memory and updating the settings can be done by entering a BOO
 - 4x Voltage Divider Rezistor 
   
 
+
 ![alt tag](https://github.com/TomasTT7/SolarLogger/blob/master/voltage(mV)_temperature(m%C2%B0C)_8s_charging.png)
 
 ![alt tag](https://github.com/TomasTT7/SolarLogger/blob/master/current(mA)_8s_charging.png)
