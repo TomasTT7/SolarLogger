@@ -1349,7 +1349,7 @@ int main(void)
 		if(TEMPres11)
 		{
 			UART_transmit('3');
-			UART_transmit('-');
+			UART_transmit(' ');
 			DS18B20_resolution(TEMP_RES_11); // 0b0xx11111 Bits 6:5 - 00 9-bit (93.75ms), 01 10-bit (187.5ms), 10 11-bit (375ms), 11 12-bit (750ms)
 			TEMPRES = TEMP_RES_11;
 			eeprom_write_byte((uint8_t*)17, TEMPRES);
